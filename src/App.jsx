@@ -16,11 +16,11 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
-          <h2>vercel.com 테스트 2..</h2>
-          <p>
+          {/* <h1>Get started</h1> */}
+          <h1>vercel.com 배포 테스트</h1>
+          {/* <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
+          </p> */}
         </div>
         <button
           className="counter"
